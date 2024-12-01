@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/local/bin/node
 
 const size = parseInt(process.argv[2]); // Parse the size from the command line argument
 
